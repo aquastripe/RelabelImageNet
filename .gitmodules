@@ -1,0 +1,3 @@
+[submodule "relabel_imagenet"]
+	path = relabel_imagenet
+	url = git@github.com:aquastripe/relabel_imagenet.git
