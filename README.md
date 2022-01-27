@@ -1,4 +1,4 @@
-# 2022 Microsoft Intern Questions
+# RelabelImageNet
 
 ## Label map examples
 
